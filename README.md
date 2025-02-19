@@ -13,7 +13,10 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **API:** News API (or any API you are using)  
+- **API:** News API (or any API you are using)
+
+  ### 📰 News Hub UI  
+![News Hub](https://github.com/rahulpatel51/New-s-HUB/blob/main/Home%20Page.png)  
 
 ## 📌 Setup & Installation
 
