@@ -19,5 +19,5 @@
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/yourusername/news-hub.git
+   git clone https://github.com/rahulpatel51/New-s-HUB.git
    cd news-hub
